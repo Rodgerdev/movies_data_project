@@ -6,8 +6,6 @@
 - [Data Sources](#data-sources)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgments](#acknowledgments)
 
 ## **Project Overview**
