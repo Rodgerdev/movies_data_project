@@ -12,7 +12,7 @@
 
 ## **Project Overview**
 
-The **Movies Data Project** aims to analyze and derive insights from various movie datasets. The project seeks to identify the top-performing film genres in terms of profit by analyzing which film genres (action, drama, comedy, animation, etc.) are performing best at the box office and identifying the highest performing genre over the last decade.
+The **Movies Performance Trend Analysis Project** aims to analyze and derive insights from various movie datasets. The project seeks to identify the top-performing film genres in terms of profit by analyzing which film genres (action, drama, comedy, animation, etc.) are performing best at the box office and identifying the highest performing genre over the last decade.
 
 ## **Data Sources**
 
