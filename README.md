@@ -111,6 +111,7 @@ After installation, you can explore the project using the provided Jupyter Noteb
  
 ## **Contact Information**
 For further queries please feel free to contact us at:
+
 • amani.mkaya@student.moringaschool.com
 • rodgers.ndemo@student.moringaschool.com
 • adnanahmedmohamund1@gmail.com
