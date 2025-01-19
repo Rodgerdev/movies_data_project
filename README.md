@@ -9,6 +9,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
+- [Contact Information](#contact-information)
 
 ## **Project Overview**
 
