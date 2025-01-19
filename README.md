@@ -4,8 +4,8 @@
 
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
-- [Data Exploration] (#data-exploration)
-- [Visualisations] (#Visualisations)
+- [Data Exploration](#data-exploration)
+- [Visualisations](#Visualisations)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Acknowledgments](#acknowledgments)
@@ -37,6 +37,7 @@ This project utilizes datasets from multiple sources:
 ## **Visualizations**
 1. *Genre popularity*
 ![Genre popularity](https://github.com/user-attachments/assets/c03dc539-8523-4f06-8d24-4cf45683c8a3)
+
 From this we can conclude the top 10 genres are:
 
 Drama with 28394 movies
@@ -52,10 +53,12 @@ Adventure with 3621 movies
 
 2. *Movie Profits*
 ![Trend of profits](https://github.com/user-attachments/assets/f623234b-b12b-4b5f-90fc-d635a98820f6)
+
 Profits increase gradually over the years. The drop in the year 2020 and 2019 was maybe due to covid-19.
 
-3. *Most performing movies*
+4. *Most performing movies*
 ![Movie profits](https://github.com/user-attachments/assets/39d418ae-324f-4c20-a471-cca76bc28c35)
+
 Avatar leads with the highest profit, followed by Titanic, Avengers: Infinity War, and Star Wars entries.
 
 ## **Installation**
