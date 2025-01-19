@@ -1,4 +1,4 @@
-# **Movie Performance Trend Analysis**
+i# **Movie Performance Trend Analysis**
 
 ## **Table of Contents**
 
@@ -65,6 +65,10 @@ Profits increase gradually over the years. The drop in the year 2020 and 2019 wa
 ![Movie profits](https://github.com/user-attachments/assets/39d418ae-324f-4c20-a471-cca76bc28c35)
 
 Avatar leads with the highest profit, followed by Titanic, Avengers: Infinity War, and Star Wars entries.
+
+
+Here's the link to our Tableau for more visualisations
+https://public.tableau.com/app/profile/beverlyne.langat/viz/MovieTrendAnalysis_17372807932820/Dashboard1#1
 
 
 
