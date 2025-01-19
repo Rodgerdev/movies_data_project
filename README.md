@@ -108,5 +108,14 @@ After installation, you can explore the project using the provided Jupyter Noteb
   - [Rotten Tomatoes](https://www.rottentomatoes.com/)
   - [The Movie Database (TMDb)](https://www.themoviedb.org/)
   - [The Numbers](https://www.the-numbers.com/)
+ 
+## **Contact Information**
+For further queries please feel free to contact us at:
+• amani.mkaya@student.moringaschool.com
+• rodgers.ndemo@student.moringaschool.com
+• adnanahmedmohamund1@gmail.com
+• kiprono.bett@student.moringaschool.com
+• beverlyne.langat@student.moringaschool.com
+• betsy.gitije@student.moringaschool.com
 
 - **Inspiration**: This project is inspired by helping our company enter the movie industry by identifying the types of films that are currently performing the best at the box office. The ultimate goal is to provide actionable insights to guide the creation of content that will maximize box office success for the company's new movie studio.
